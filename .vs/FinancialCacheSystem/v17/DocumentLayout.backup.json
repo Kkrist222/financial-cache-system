@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sendik\\source\\repos\\FinancialCacheSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8957C5-A27C-4505-BDC8-3A548F4F4442}|FinancialCacheSystem\\FinancialCacheSystem.csproj|c:\\users\\sendik\\source\\repos\\financialcachesystem\\financialcachesystem\\cache\\cachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8957C5-A27C-4505-BDC8-3A548F4F4442}|FinancialCacheSystem\\FinancialCacheSystem.csproj|solutionrelative:financialcachesystem\\cache\\cachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8957C5-A27C-4505-BDC8-3A548F4F4442}|FinancialCacheSystem\\FinancialCacheSystem.csproj|c:\\users\\sendik\\source\\repos\\financialcachesystem\\financialcachesystem\\reports\\financialreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8957C5-A27C-4505-BDC8-3A548F4F4442}|FinancialCacheSystem\\FinancialCacheSystem.csproj|solutionrelative:financialcachesystem\\reports\\financialreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8957C5-A27C-4505-BDC8-3A548F4F4442}|FinancialCacheSystem\\FinancialCacheSystem.csproj|c:\\users\\sendik\\source\\repos\\financialcachesystem\\financialcachesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8957C5-A27C-4505-BDC8-3A548F4F4442}|FinancialCacheSystem\\FinancialCacheSystem.csproj|solutionrelative:financialcachesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinancialReport.cs",
+              "DocumentMoniker": "C:\\Users\\Sendik\\source\\repos\\FinancialCacheSystem\\FinancialCacheSystem\\Reports\\FinancialReport.cs",
+              "RelativeDocumentMoniker": "FinancialCacheSystem\\Reports\\FinancialReport.cs",
+              "ToolTip": "C:\\Users\\Sendik\\source\\repos\\FinancialCacheSystem\\FinancialCacheSystem\\Reports\\FinancialReport.cs",
+              "RelativeToolTip": "FinancialCacheSystem\\Reports\\FinancialReport.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T10:40:11.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CacheManager.cs",
+              "DocumentMoniker": "C:\\Users\\Sendik\\source\\repos\\FinancialCacheSystem\\FinancialCacheSystem\\Cache\\CacheManager.cs",
+              "RelativeDocumentMoniker": "FinancialCacheSystem\\Cache\\CacheManager.cs",
+              "ToolTip": "C:\\Users\\Sendik\\source\\repos\\FinancialCacheSystem\\FinancialCacheSystem\\Cache\\CacheManager.cs",
+              "RelativeToolTip": "FinancialCacheSystem\\Cache\\CacheManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T10:39:55.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sendik\\source\\repos\\FinancialCacheSystem\\FinancialCacheSystem\\Program.cs",
+              "RelativeDocumentMoniker": "FinancialCacheSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Sendik\\source\\repos\\FinancialCacheSystem\\FinancialCacheSystem\\Program.cs",
+              "RelativeToolTip": "FinancialCacheSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T10:30:11.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
